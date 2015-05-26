@@ -1,6 +1,0 @@
-name: Ali Mahrous
--
-profession: Gräphic Designer
--
-email: 
-<hi@yourdomain.com>
